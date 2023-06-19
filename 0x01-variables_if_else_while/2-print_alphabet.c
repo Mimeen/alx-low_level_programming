@@ -6,7 +6,7 @@
  * Return: Always Zero - Success
  */
 
-int main (void)
+int main(void)
 {
 	char small_alpha;
 
