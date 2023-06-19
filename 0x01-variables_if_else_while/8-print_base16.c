@@ -16,7 +16,7 @@ int main(void)
 	for (num = 0; num < 10; num++)
 		putchar((num % 10) + '0');
 
-	for (alpha = 65; alpha < 71; alpha++)
+	for (alpha = 97; alpha < 122; alpha++)
 		putchar(alpha);
 	putchar('\n');
 
